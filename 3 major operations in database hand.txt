@@ -1,0 +1,24 @@
+3 major operations in database handling:
+-Add
+-Update
+-Delete
+
+
+Entity- table
+Attributes-
+
+
+On an ER model, an entity is defined as a box, an attribute is an oval, relationships are diamonds, 
+
+
+Components of a relationship:
+Degree - unary relationship, binary relationship, ternary relationship
+
+Connectivity - One is to many, one is to one, many is to one, many is to many
+
+Cardinality - Optional or Mandatory
+
+
+
+
+

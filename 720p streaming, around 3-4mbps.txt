@@ -1,0 +1,2 @@
+720p streaming, around 3-4mbps
+1080p streaming, around 9-12mbps
